@@ -1,0 +1,20 @@
+.main{
+  min-height: 100vh;
+  position: relative;
+ 
+}
+
+.element{
+  background-color:rgba(240, 238, 238, 0.808);
+  width: 300px;
+}
+
+span{
+  font-weight: bold;
+  font-size: large;
+}
+
+.detail{
+  background-color: rgba(119, 206, 119, 0.641);
+  min-height: 80vh;
+}
